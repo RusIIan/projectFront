@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@&family=Lora&family=Montserrat&family=Noto+Sans+Ethiopic&family=Roboto+Mono:wght@200&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+}
+.main {
+  width: 1200px;
+  margin: 0 auto;
+  height: 500px;
+  background-color: azure;
+  background-position: center top;
+}
+.main-body {
+  width: 80%;
+}
+.main-body h1 {
+  text-align: center;
+}
+.main-item {
+  font-size: 25px;
+  font-weight: 500;
+  font-family: 'Roboto Mono', monospace;
+
+}
