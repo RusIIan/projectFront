@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css");
+:root {
+  --main-color: rgb(238, 156, 2);
+  --icon-color-fb: rgb(63, 123, 252);
+  --icon-color-wb: rgb(23, 155, 0);
+  --icon-color-inst: rgb(188, 46, 36);
+  --icon-color-hom: rgb(222, 43, 43);
+  --icon-color-sms: rgb(222, 43, 43);
+}
